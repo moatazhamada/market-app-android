@@ -1,8 +1,10 @@
-package com.bit68.marketapp;
+package com.bit68.marketapp.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.bit68.marketapp.R;
 
 public class MainActivity extends AppCompatActivity {
 
