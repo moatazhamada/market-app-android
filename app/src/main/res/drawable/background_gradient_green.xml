@@ -4,11 +4,8 @@
     <gradient
         android:type="radial"
         android:gradientRadius="@dimen/gradient_radius"
-        android:startColor="@color/gradient_start"
-        android:endColor="@color/gradient_end"
+        android:startColor="@android:color/holo_green_light"
+        android:endColor="@android:color/holo_green_dark"
         />
 </shape>
 
-
-
-<!--    background-image: linear-gradient(to right, #00AAB8, #0093B5, #007BAE, #0093B5, #004990);-->
